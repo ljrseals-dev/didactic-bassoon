@@ -38,3 +38,8 @@ npm test
 
 🎨 Visual Preview
 Here is the concept header for the Halyard project, highlighting its clean, developer-centric aesthetic:
+
+
+Here is the link to your complete Google Drive folder containing all the files:
+halyard-all-files.zip https://github.com/ljrseals-dev/didactic-bassoon
+All of your files are fully organized and complete in the archive above.
