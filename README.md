@@ -1,4 +1,13 @@
 ﻿Halyard
+
+ ## 🌟 What Can Be Accomplished with Halyard
+
+<p align="center">
+  <img src="images/collage.jpg" alt="What Can Be Accomplished with Halyard" width="100%">
+</p>
+
+Halyard is designed to route consented voice jobs through a rigorous multi-objective pipeline: **Quality, then Consent, then Latency, then Cost.**
+
 Welcome to Halyard—a modern, robust web application built with a cutting-edge full-stack architecture, featuring automated tooling, seamless authentication workflows, and interactive studio capabilities.
 🚀 Overview
 Halyard is designed for performance and reliability, integrating advanced client-side routing, secure database migrations, and a comprehensive build and preview pipeline.
